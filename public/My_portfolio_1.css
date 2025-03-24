@@ -1,0 +1,140 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: darkgray;
+    padding: 20px;
+    position: sticky;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+nav a{
+    text-decoration: none;
+    font-size: 24px;
+    color: blue;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+nav a:hover{
+    color: white}
+.H1_Name{
+    padding-left: 300px;
+}
+
+.section_about{
+    display: flex;
+    /*height: 100%;*/
+    /*width: 50%;*/
+    justify-content: space-between;
+    /*padding-left: 50px;*/
+    color: blue;
+    border: 10px solid gray;
+    background-color: blanchedalmond;
+    /*container: inherit;*/
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    margin-bottom: 100px;
+    padding-bottom: 150px;
+}
+#About_name{
+    color: cyan;
+}
+#About_bio{
+
+    color: darkgray;
+    letter-spacing: normal;
+    font-weight: normal;
+
+    margin-left: 30px;
+}
+
+
+
+
+.about-image{
+    height: 100%;
+    width: 50%;
+    border: darkgreen solid 10px;
+    border-radius: 20px;
+    margin-top: 40px;
+    padding-top: 50px;
+    padding-left: 30px;
+    margin-left: 20px;
+    /*margin-right: 10px;*/
+    /*border-collapse: 10px;*/
+    padding-bottom: 40px;
+    padding-right: 20px;
+    margin-bottom: 35px;
+    background-color: darkgreen;
+}
+
+.About{
+    height: 100%;
+    /*width: 90%;*/
+    border: 10px dashed darkred;
+    color: darkred;
+    /*border: 10px solid darkgreen;*/
+    font-size: 24px;
+    /*border-radius: 20px;*/
+    margin-top: 40px;
+    margin-right: 20px;
+    padding: 10px;
+    background-color: olive;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+#projects{
+    background-color: darkgray;
+    border: 5px solid darkmagenta;
+    height: 75%;
+    width: 25%;
+    display: flex;
+    margin-left: 35px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+.projects_done{
+    margin: 0px;
+    padding: 10px;
+}
+.project_img{
+    height: 350px;
+    padding: 20px;
+    width: 250px;
+    padding-right: 250px;
+}
+.projects_info{
+    padding-left: 20px;
+}
+/*.projects_info hover{*/
+/*    color: darkmagenta;*/
+/*}*/
+.projects_done_1{
+    border: 5px solid darkmagenta;
+    border-radius: 20px;
+    margin-right: 50px;
+    background-color: oldlace;
+}
+.projects_title{
+    padding: 20px;
+}
+.projects_done_2{
+     border: 5px solid darkmagenta;
+    border-radius: 20px;
+    background-color: burlywood;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+.content{
+    display: flex;
+}
+.content_img{
+    width: 30vw;
+    height: 50vh;
+}
+.span_border{
+    border: solid lime;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+span{
+    border: 2px solid gray;
+    padding-top: 5px;
+    padding-left: 20px;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    width: auto;
+    heigth: auto;
+    margin: 10px
+}
+.span_border{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+}
+
+
+
